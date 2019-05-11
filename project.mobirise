@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hawaii Meditation Retreats",
-    "currentPage": "index.html",
+    "currentPage": "july_retreat.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -48,7 +48,7 @@
       "settings": {
         "main": true,
         "title": "Hawaii Meditation Retreats",
-        "meta_descr": "Shift your relationship to life by quieting your mind, rejuvenating your body and opening your heart. Join for for silent  meditaton retreats on the beautiful Big Island of Hawaii.",
+        "meta_descr": "Shift your relationship to life by quieting your mind, rejuvenating your body and opening your heart. Join for for silent  meditation retreats on the beautiful Big Island of Hawaii.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -3408,7 +3408,7 @@
     },
     "october_retreat.html": {
       "settings": {
-        "meta_descr": "Shift your relationship to life by quieting your mind, rejuvenating your body and opening your heart. Join for for silent  meditaton retreats on the beautiful Big Island of Hawaii.",
+        "meta_descr": "Shift your relationship to life by quieting your mind, rejuvenating your body and opening your heart. Join for for silent  meditation retreats on the beautiful Big Island of Hawaii.",
         "title": "October Silent Meditation Retreat",
         "order": 11
       },
@@ -5212,7 +5212,7 @@
     },
     "july_retreat.html": {
       "settings": {
-        "meta_descr": "Shift your relationship to life by quieting your mind, rejuvenating your body and opening your heart. Join for for silent  meditaton retreats on the beautiful Big Island of Hawaii.",
+        "meta_descr": "Shift your relationship to life by quieting your mind, rejuvenating your body and opening your heart. Join for for silent  meditation retreats on the beautiful Big Island of Hawaii.",
         "title": "July Silent Meditation Retreat",
         "order": 10
       },
