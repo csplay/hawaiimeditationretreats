@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hawaii Meditation Retreats",
-    "currentPage": "october_registration.html",
+    "currentPage": "october_retreat.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,7 @@
         "main": true,
         "title": "Hawaii Meditation Retreats",
         "meta_descr": "Shift your relationship to life by quieting your mind, rejuvenating your body and opening your heart. Join for for silent  meditation retreats on the beautiful Big Island of Hawaii.",
-        "header_custom": "",
+        "header_custom": "<meta name=\"keywords\" content=\"silent meditation, meditation retreat, silent meditation retreat, hawaii meditation retreat, hawaii yoga retreat, hridaya, hridaya meditation retreat, hridaya yoga, hawaii meditation retreat, hridaya meditation\">",
         "footer_custom": "",
         "html_before": ""
       },
@@ -611,9 +611,10 @@
     },
     "lolia.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "The retreat center hosting Hridaya silent meditation retreats on the Hawaii Big Island.",
         "title": "Lolia",
-        "order": 8
+        "order": 8,
+        "header_custom": "<meta name=\"keywords\" content=\"silent meditation, meditation retreat, silent meditation retreat, hawaii meditation retreat, hawaii yoga retreat center, hridaya, hridaya meditation retreat center, hridaya yoga, hawaii meditation retreat, hridaya meditation\">"
       },
       "components": [
         {
@@ -2117,9 +2118,10 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "Hridaya yoga and meditation teachers leading silent meditation retreats on the Hawaii Big Island.",
         "title": "About",
-        "order": 9
+        "order": 9,
+        "header_custom": "<meta name=\"keywords\" content=\"silent meditation, meditation retreat, silent meditation retreat, hawaii meditation retreat, hawaii yoga retreat, hridaya, hridaya meditation retreat, hridaya yoga, hawaii meditation retreat, hridaya meditation, hridaya yoga teachers, hridaya meditation teachers\">"
       },
       "components": [
         {
@@ -2793,9 +2795,10 @@
     },
     "october_retreat.html": {
       "settings": {
-        "meta_descr": "Shift your relationship to life by quieting your mind, rejuvenating your body and opening your heart. Join for for silent  meditation retreats on the beautiful Big Island of Hawaii.",
+        "meta_descr": "Join for for Hridaya silent  meditation retreats on the beautiful Big Island of Hawaii. Shift your relationship to life by quieting your mind, rejuvenating your body and opening your heart. ",
         "title": "October Silent Meditation Retreat",
-        "order": 11
+        "order": 11,
+        "header_custom": "<meta name=\"keywords\" content=\"silent meditation, meditation retreat, silent meditation retreat, hawaii meditation retreat, hawaii yoga retreat, hridaya, hridaya meditation retreat, hridaya yoga, hawaii meditation retreat, hridaya meditation\">\n"
       },
       "components": [
         {
@@ -4597,9 +4600,10 @@
     },
     "lolia_rules.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Lolia Eco-Village Rules and Guidelines",
         "title": "Lolia Eco-Village Rules and Guidelines",
-        "order": 5
+        "order": 5,
+        "header_custom": ""
       },
       "components": [
         {
@@ -5075,7 +5079,7 @@
     },
     "october_waiver.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Liability waiver of the October, 2019 silent meditation retreat.",
         "title": "October Retreat Waiver",
         "order": 4
       },
@@ -5553,9 +5557,10 @@
     },
     "october_registration.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Registration for Hridaya silent meditation retreat on the Hawaii Big Island, October 2019. ",
         "title": "October Retreat Registration",
-        "order": 7
+        "order": 7,
+        "header_custom": "<meta name=\"keywords\" content=\"silent meditation, meditation retreat, silent meditation retreat, hawaii meditation retreat, hawaii yoga retreat, hridaya, hridaya meditation retreat, hridaya yoga, hawaii meditation retreat, hridaya meditation\">"
       },
       "components": [
         {
@@ -6335,9 +6340,10 @@
     },
     "contact_us.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "Contact the Hawaii Meditation Retreats team.",
         "title": "Contact Us",
-        "order": 2
+        "order": 2,
+        "header_custom": "<meta name=\"keywords\" content=\"silent meditation, meditation retreat, silent meditation retreat, hawaii meditation retreat, hawaii yoga retreat, hridaya, hridaya meditation retreat, hridaya yoga, hawaii meditation retreat, hridaya meditation\">"
       },
       "components": [
         {
@@ -6876,9 +6882,10 @@
     },
     "contact_message.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "Thank you for contacting us!",
         "title": "Contact Message",
-        "order": 1
+        "order": 1,
+        "header_custom": ""
       },
       "components": [
         {
