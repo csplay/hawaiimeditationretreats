@@ -1845,6 +1845,9 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-roXzutDAz5 .card-title {
+  color: #000000;
+}
 .cid-rr4OrXxR8v {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -3151,6 +3154,18 @@ body {
 .cid-rp5eCypu5E H2 {
   text-align: center;
 }
+.cid-rsAimNjSed {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rsAimNjSed .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rsAimNjSed .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rp5hPgtMmg {
   padding-top: 30px;
   padding-bottom: 15px;
@@ -3565,6 +3580,18 @@ body {
 .cid-roYkeGGsjT P {
   color: #767676;
 }
+.cid-rsAibSfvuE {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rsAibSfvuE .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rsAibSfvuE .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rpkqBDuzKI {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -3639,6 +3666,18 @@ body {
     width: auto;
     margin: auto;
   }
+}
+.cid-rsAi8dACqe {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rsAi8dACqe .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rsAi8dACqe .social-list a:focus {
+  text-decoration: none;
 }
 .cid-roYu0OG5UI {
   padding-top: 30px;
@@ -6010,6 +6049,18 @@ body {
 .cid-roYgSZIL6S blockquote {
   color: #767676;
 }
+.cid-rsAisAdeeY {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rsAisAdeeY .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rsAisAdeeY .social-list a:focus {
+  text-decoration: none;
+}
 .cid-roYhMx0xRz {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -7731,6 +7782,18 @@ body {
   padding-bottom: 15px;
   background-image: url("../../../assets/images/rooms7-gallery-5a652ea4d174b-700x490-700x490.jpg");
 }
+.cid-rsAizgCY6v {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rsAizgCY6v .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rsAizgCY6v .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rp9GaWSDrS {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -8166,6 +8229,19 @@ body {
 }
 .cid-rr54b0WUN0 .social-list a:focus {
   text-decoration: none;
+}
+.cid-rsAjWX2OQy {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-rsAjWX2OQy .mbr-text,
+.cid-rsAjWX2OQy blockquote {
+  color: #767676;
+}
+.cid-rsAjWX2OQy .mbr-text P {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
